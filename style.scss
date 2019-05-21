@@ -49,6 +49,9 @@ h1 {
   a {
     color: inherit;
   }
+  &.blog-title {
+    margin-bottom: 0;
+  }
 }
 
 h2 {
