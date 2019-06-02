@@ -22,7 +22,7 @@ footer-links:
   flickr:
   github: darshan3
   instagram:
-  linkedin: in/darshantank
+  linkedin: darshantank
   pinterest:
   rss: darshan3 # just type anything here for a working RSS icon
   twitter: 
@@ -33,7 +33,7 @@ footer-links:
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus: darshan3
+disqus: darshan3-github-io
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics: UA-140665788-1
